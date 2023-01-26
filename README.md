@@ -1,7 +1,7 @@
 
 
 # donnerstag
-Style öndert main branch text und produziert einen conflict
+Style ändert main branch text und produziert einen conflict
 main möchte bestimmen
 
 
